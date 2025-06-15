@@ -21,6 +21,7 @@ bank_project/
 ├── main.c // Main source code
 ├── transactions.txt // List of transaction requests
 ├── output.txt // Sample program output
+├── bank
 └── README.md // This file
 
 ---
