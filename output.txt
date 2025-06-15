@@ -1,0 +1,21 @@
+Transaction 2 başarısız, tekrar deneniyor...
+
+Final account balances:
+Account 0: 630
+Account 1: 510
+Account 2: 5
+Account 3: 1055
+Account 4: 610
+
+Transaction Log:
+Transaction 0: deposit -1 -> 0 Amount: 100 (Success)
+Transaction 1: withdraw 1 -> -1 Amount: 50 (Success)
+Transaction 2: transfer 2 -> 3 Amount: 615 (Success)
+Transaction 3: deposit -1 -> 4 Amount: 200 (Success)
+Transaction 4: transfer 1 -> 0 Amount: 30 (Success)
+Transaction 5: withdraw 3 -> -1 Amount: 60 (Success)
+Transaction 6: deposit -1 -> 2 Amount: 120 (Success)
+Transaction 7: transfer 4 -> 1 Amount: 90 (Success)
+
+
+
